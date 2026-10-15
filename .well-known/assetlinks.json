@@ -1,8 +1,8 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.aom80308.kodo",
-        "sha256_cert_fingerprints": ["18:6D:C3:EA:AF:5C:55:5D:D1:05:73:26:AB:72:4D:F4:CE:B2:03:7F:DD:0F:AB:1A:0B:3F:02:DD:E9:9B:73:CF"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.aom80308_lang.twa",
+    "sha256_cert_fingerprints": ["78:2D:14:19:E5:33:10:2F:67:41:E3:D8:28:1C:58:7D:66:83:0F:4A:46:82:DA:C8:19:87:05:37:81:FC:6D:4D"]
+  }
+}]
